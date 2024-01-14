@@ -1,0 +1,374 @@
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  /* CSS */
+/**************************
+header section code start
+***************************/
+.navbar-toggler {
+ background-color: white;
+}
+
+/**************************
+banner section code start
+***************************/
+.banner-section {
+    height: 140vh;
+}
+
+.main-form {
+    height: 60vh;
+}
+
+.banner-section .content {
+    text-align: center;
+}
+
+.banner-section .content h2 {
+  padding-right: 0px;
+}
+
+.banner-section .content .line {
+    margin: 35px auto;
+}
+
+.banner-section .content p {
+  padding-right: 0px;
+}
+
+/**************************
+social media section code start
+***************************/
+.social-media .content {
+    text-align: center;
+}
+
+.social-media .content p {
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+.social-media .social-icon {
+    text-align: center;
+}
+
+.social-media .social-icon ul {
+    margin: 0;
+    padding: 10px 0;
+}
+
+.social-media .social-icon ul li {
+  margin-left: 0px;
+  padding: 0 8px;
+}
+
+.social-media .social-icon ul li a i {
+    font-size: 32px;
+}
+
+/**************************
+Tab section code start
+***************************/
+.tab-section {
+    padding: 60px 0;
+}
+
+.tab-section .nav {
+  padding-right: 0px;
+}
+
+.tab-section .tab-content h3 {
+    padding-bottom: 8px;
+}
+
+.tab-section .tab-content p {
+    padding: 0px 5px 0 0;
+    font-size: 14px;
+    padding-bottom: 10px;
+    line-height: 20px;
+}
+
+.tab-section .img img {
+    width: 100%;
+    padding: 50px 0 0 0;
+}
+
+
+/**************************
+sub section code start
+***************************/
+.sub-section {
+    padding: 60px 0px;
+}
+
+.sub-section .img img{
+    width: 100%;
+}
+
+.sub-section .sub-list {
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+.sub-section .sub-list .line {
+    margin: 20px auto;
+}
+
+.sub-section .sub-list p {
+    padding-right: 0px;
+    padding-bottom: 40px;
+}
+
+.sub-section .left-part {
+  text-align: center;
+   margin-left: 0px;
+}
+
+.sub-section .icon img {
+    padding-bottom: 20px;
+}
+
+.sub-section .title p {
+    padding-right: 0px;
+    padding-bottom: 40px;
+}
+
+/**************************
+standerd section code start
+***************************/
+.Standard-section {
+    padding: 60px 0;
+}
+
+.Standard-section .title{
+  text-align: center;
+}
+
+.Standard-section .title .line {
+    margin: 25px auto;
+}
+
+.Standard-section .title p {
+  padding-right: 0;
+}
+
+.Standard-section .img img{
+    width: 100%;
+}
+
+
+
+/**************************
+awesome section code start
+***************************/
+.awesome-section {
+    padding: 60px 0;
+}
+
+.awesome-section .title h2 {
+    font-size: 30px;
+}
+
+.awesome-section .title .line {
+    margin: 20px auto;
+}
+
+.awesome-section .features {
+    padding: 50px 0 0 0;
+}
+
+.awesome-section .features .icon {
+    padding-bottom: 20px;
+}
+
+.awesome-section .features p {
+    padding: 10px 0px;
+}
+
+/**************************
+pricing section code start
+***************************/
+.pricing-section {
+    padding: 60px 0px;
+}
+
+.pricing-section .pricing-inner .title h2 {
+    font-size: 30px;
+}
+
+.pricing-section .pricing-inner .title .line {
+    margin: 20px auto;
+}
+
+.align-items-end {
+    padding: 50px 0px 0px 0px;
+}
+
+.pricing-inner .price-box {
+    margin: 0px 15px 50px 15px;
+}
+
+/**************************
+review section code start
+***************************/
+.review-section {
+    padding: 60px 0;
+}
+
+.review-section .title .line {
+    margin: 20px auto;
+}
+
+.review-section .content {
+    margin: 0 20px;
+    margin-bottom: 35px;
+}
+
+.review-section .man {
+    padding-left: 25px;
+}
+.review-section .intro {
+      margin-left: 110px;
+    margin-top: -70px;
+}
+
+.review-section .review-box {
+  margin-bottom: 85px;
+}
+
+.review-section .title h2 {
+    padding: 0 20px;
+}
+
+
+/**************************
+style section code start
+***************************/
+.stylish-section {
+    padding: 60px 0;
+}
+
+.stylish-section .title h2 {
+    font-size: 30px;
+}
+
+.stylish-section .title .line {
+    margin: 20px auto;
+}
+
+/**************************
+contact section code start
+***************************/
+.contact-section {
+    padding: 60px 0;
+}
+
+.contact-section .title .line {
+    margin: 20px auto;
+}
+
+.contact-section .form {
+    margin: 0px 15px;
+}
+
+.contact-section .form input {
+    padding: 5px 145px 5px 10px;
+}
+
+.contact-section .message {
+    margin: 0px 15px;
+}
+.contact-section .message input {
+    padding: 5px 145px 125px 10px;
+}
+
+/**************************
+footer section code start
+***************************/
+.footer-section {
+    padding: 20px 0 20px 0;
+}
+
+.footer-section .social-icon ul {
+    padding: 5px 0;
+}
+
+.footer-section .social-icon ul li {
+    margin-left: 0px;
+    padding: 0 8px;
+}
+
+.footer-section .social-icon ul li a i {
+    font-size: 28px;
+}
+
+.footer-section .end {
+    font-size: 12px;
+}
+
+/********* end *********/
+
+
+}
+
+/*********** Md Rubel Gazi ***********/
